@@ -64,7 +64,7 @@
     z-index: 1050;
 }
 .vbox-close:after{ content:'\f404'; font-family: 'Ionicons'; position: absolute; top:0;
-	left: 0; right: 0; bottom: 0; font-size: 60px; line-height: 1; color: #2FC36A!important; }
+	left: 0; right: 0; bottom: 0; font-size: 60px; line-height: 1; color: #d537c8!important; }
 
 .vbox-close:hover:after{ color: #eee!important; }
 
@@ -117,7 +117,7 @@
 	left: 0; right: 0; bottom: 0; font-size: 60px; line-height: 1; color: #eee!important; }
 
 .vbox-next:hover span:after,
-.vbox-prev:hover span:after{color: #2FC36A!important;}
+.vbox-prev:hover span:after{color: #d537c8!important;}
 	
 	
 .vbox-prev{

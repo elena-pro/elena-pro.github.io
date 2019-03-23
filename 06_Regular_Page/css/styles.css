@@ -55,7 +55,7 @@ a, button{ display: inline-block; text-decoration: none; color: inherit; line-he
 
 a:focus, a:active, a:hover,
 button:focus, button:active, button:hover,
-a b.light-color:hover{ text-decoration: none; color: #37D583; }
+a b.light-color:hover{ text-decoration: none; color: #d537c8; }
 
 b{ font-weight: 600; }
 
@@ -91,7 +91,7 @@ b.max-bold{ font-weight: 700; }
 .display-table-cell{ display: table-cell; vertical-align: middle; } 
 
 .color-black{ color: #000; }
-.color-green{ color: #36D98A; }
+.color-green{ color: #d537c8; }
 .color-light-black{ color: #bbb; }
 
 .margin-tb-10{ margin-top: 10px; margin-bottom: 10px; }
@@ -106,6 +106,7 @@ b.max-bold{ font-weight: 700; }
 /* ---------------------------------
 3. HEADER
 --------------------------------- */
+header { font-weight: 500; }
 
 header{ position: absolute; top: 0; left: 0; right: 0; height: 60px; text-align: center; z-index: 1000; }
 
@@ -183,7 +184,7 @@ header .main-menu li.drop-down a.mouseover + ul.drop-down-menu{ display: block;
 .main-section::-webkit-scrollbar-track { background: #EBEBEB;
 	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.1); }
  
-.main-section::-webkit-scrollbar-thumb { background-color: #32D98B; outline: 1px solid #32D98B; }
+.main-section::-webkit-scrollbar-thumb { background-color: #d537c8; outline: 1px solid #d537c8; }
 
 
 /* ---------------------------------
