@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6, p, a, ul, span, li, img, inpot, button{ margin: 0; paddi
 
 h1,h2,h3,h4,h5,h6{ line-height: 1.5; font-weight: inherit; }
 
-h1,h2,h3{ font-family: 'Pacifico', cursive; }
+h1,h2,h3{ font-family: 'Ubuntu', cursive; }
 
 p{ line-height: 1.6; font-size: 1.05em; font-weight: 400; color: #777; }
 
@@ -59,7 +59,7 @@ a, button{ display: inline-block; text-decoration: none; color: inherit; line-he
 
 a:focus, a:active, a:hover,
 button:focus, button:active, button:hover,
-a b.light-color:hover{ text-decoration: none; color: #d537c8; }
+a b.light-color:hover{ text-decoration: none; color: #C936D3!important}
 
 b{ font-weight: 600; }
 
@@ -87,7 +87,7 @@ b.max-bold{ font-weight: 700; }
 .display-table-cell{ display: table-cell; vertical-align: middle; } 
 
 .color-black{ color: #000; }
-.color-green{ color: #d537c8; }
+.color-green{ color: #C936D3; }
 
 .margin-tb-10{ margin-top: 10px; margin-bottom: 10px; }
 
