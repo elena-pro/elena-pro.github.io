@@ -61,6 +61,8 @@ a:focus, a:active, a:hover,
 button:focus, button:active, button:hover,
 a b.light-color:hover{ text-decoration: none; color: #C936D3!important}
 
+.sliderLink:focus, .sliderLink:active, .sliderLink:hover {text-decoration: none; color: #fff!important}
+
 b{ font-weight: 600; }
 
 img{ width: 100%; }
