@@ -170,6 +170,13 @@ header .main-menu li.drop-down a.mouseover + ul.drop-down-menu{ display: block;
 
 .main-section .right-area img{ box-shadow: 3px 10px 20px 0px rgba(0,0,0,.1); }
 
+#aboutMe_photo {
+	max-width: 80%;
+	height: auto;
+	margin-left: 10%;
+	margin-right: 10%;	
+}
+
 .main-section .right-area{ padding-left: 25px; overflow-x: hidden; }
 
 
